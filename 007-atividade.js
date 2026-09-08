@@ -1,5 +1,5 @@
 let produto = {
-    nome: "Produto",
+    nome: "Placa Mãe",
     preco: 500,
     disponivel: true,
     tags: ['eletrônicos', 'hardware', 'computador']
