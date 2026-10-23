@@ -16,6 +16,3 @@ if (numero > 0){
     console.log("Negativo");
 }
 
-if (numero === 0){
-    console.log("Este número é 0!");
-}
